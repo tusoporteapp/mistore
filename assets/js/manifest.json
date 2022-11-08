@@ -1,7 +1,7 @@
 {
     "short_name": "DEMOAPP",
     "name": "DEMOAPP",
-    "id": "/assets/js/index",
+    "id": "/assets/js/index.html",
     "icons": [
         {
             "src": "/assets/img/icon_180.png",
@@ -21,7 +21,7 @@
             "purpose": "any"
         }
     ],
-    "start_url": "/assets/js/index",
+    "start_url": "/assets/js/index.html",
     "background_color": "#000000",
 	"font-color": "#91691a",
     "theme_color": "#54eedc",
