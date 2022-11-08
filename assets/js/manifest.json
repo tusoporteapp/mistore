@@ -1,0 +1,29 @@
+{
+    "short_name": "DEMOAPP",
+    "name": "DEMOAPP",
+    "id": "/assets/js/index",
+    "icons": [
+        {
+            "src": "/assets/img/icon_180.png",
+            "type": "image/png",
+            "sizes": "180x180",
+            "purpose": "maskable"
+        },{
+            "src": "/assets/img/icon_192.png",
+            "type": "image/png",
+            "sizes": "192x192",
+            "purpose": "maskable"
+        },
+        {
+            "src": "/assets/img/icon_512.png",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "any"
+        }
+    ],
+    "start_url": "/assets/js/index",
+    "background_color": "#000000",
+	"font-color": "#91691a",
+    "theme_color": "#54eedc",
+    "display": "standalone"
+}
